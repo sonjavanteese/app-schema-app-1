@@ -1,0 +1,20 @@
+{
+  "name": "app-schema-app-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3004"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonjavanteese/app-schema-app-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonjavanteese/app-schema-app-1/issues"
+  },
+  "homepage": "https://github.com/sonjavanteese/app-schema-app-1#readme"
+}
